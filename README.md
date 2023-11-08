@@ -19,5 +19,5 @@ The Bangla Book Flap Analyzer is an innovative machine learning project focused 
 To get started with the Bangla Book Flap Analyzer project, follow these steps:
 
 1. **To get the data collection system:**
-2. [https://github.com/al-Reza89/new-ml-project](URL)
+2. [https://github.com/al-Reza89/new-ml-project](https://github.com/al-Reza89/new-ml-project)
 
