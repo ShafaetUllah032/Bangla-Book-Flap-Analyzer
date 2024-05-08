@@ -21,7 +21,7 @@ The Bangla Book Flap Analyzer is an innovative machine learning project focused 
   - Empowers literary researchers, scholars, and enthusiasts with the ability to analyze Bangla literature effectively. The models' precision in genre classification provides valuable insights into themes, trends, and patterns within Bangla books, fostering a deeper understanding of the rich literary heritage.
 
 ## Cite this paper : 
-
+`
 @INPROCEEDINGS{10441414,
   author={Ullah, Md Safaet and Ali Al - Reza, Md. and Rahman, Mohammad Shahidur},
   booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, 
@@ -35,6 +35,7 @@ The Bangla Book Flap Analyzer is an innovative machine learning project focused 
   doi={10.1109/ICCIT60459.2023.10441414},
   ISSN={},
   month={Dec},}
+  `
 
 
 ## Getting Started
